@@ -89,7 +89,7 @@ class Panel extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Admin Panel"),
+        title: Text("Succesfull"),
       ),
     );
   }
